@@ -13,6 +13,8 @@ A Queue is a linear data structure that follows the FIFO (First In First Out) pr
 - Traffic at Toll Booths – Cars pass through in the order they arrive.
 - Printer Queue – When multiple documents are sent to a printer, they are printed in the order they were submitted.
 - Movie Ticket Booking – Online ticket systems process reservations in sequence.
+
+
 💻 Computer Science Applications:
 - Task Scheduling – Operating systems use queues to manage processes.
 - Network Requests – Web servers handle incoming requests in order.
